@@ -1,0 +1,7 @@
+DEPENDENCIES
+  newrelic-infra
+    path: .
+    metadata: true
+
+GRAPH
+  newrelic-infra (0.12.2)
